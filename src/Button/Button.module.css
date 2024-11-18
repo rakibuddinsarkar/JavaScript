@@ -1,0 +1,13 @@
+.button {
+  background-color: hsl(222, 87%, 59%);
+  border: none;
+  border-radius: 10px;
+  margin: 15px;
+  padding: 10px 115px;
+  box-shadow: 5px 5px 10px hsla(0, 0%, 0%, 0.1);
+  text-align: center;
+  color: aliceblue;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
